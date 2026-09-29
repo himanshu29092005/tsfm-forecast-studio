@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+statsmodels
+streamlit
+matplotlib
+# optional foundation model (zero-shot):
+# torch
+# chronos-forecasting
